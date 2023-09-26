@@ -1,2 +1,2 @@
 # so_long
-A simple 2D game to with the mlx library.
+A simple 2D game with the mlx library.
